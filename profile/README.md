@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## For new feature
+  * Create Issue in Project
+  * Create Demo Video
+  * Upload in this shared folder: https://drive.google.com/drive/folders/1bhank8uingdyt0zEsS99BPO0jQicMn80?usp=sharing
+  * Copy video link and attach in your Pull Request
+  * See in your pull request if code is not mergable please fix that as well
